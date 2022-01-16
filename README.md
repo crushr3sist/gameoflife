@@ -11,4 +11,8 @@
     - add **restart** button
     - Add **User Mouse** to *pre-allocate* the cells 
     - Add in **Random** Button
-    
+
+>How to run 
+```bat
+py server.py
+```
