@@ -11,6 +11,7 @@
     - add **restart** button
     - Add **User Mouse** to *pre-allocate* the cells 
     - Add in **Random** Button
+    - develop screenshot system
 
 >How to run 
 ```bat
