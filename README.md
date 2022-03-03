@@ -1,6 +1,6 @@
 # gameoflife
 *Original Creator John Conway*
-*Re-Creation by Rohaan Ahmed*
+*Re-Creation by Ronny*
 
 * What is left to do 
     - Add in **Ui Navbar**
